@@ -5,7 +5,7 @@
 [![Maven Central](https://img.shields.io/maven-central/v/com.spotify/docker-client.svg)](https://search.maven.org/#search%7Cga%7C1%7Cg%3A%22com.spotify%22%20docker-client)
 [![License](https://img.shields.io/github/license/spotify/docker-client.svg)](LICENSE)
 
-This is a [Docker](https://github.com/docker/docker) client written in Java.
+This is a [Docker](https://github.com/docker/docker) client written in Java....
 It is used it in many critical production systems at Spotify.
 
 * [Version compatibility](#version-compatibility)
